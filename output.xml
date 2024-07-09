@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+    <TENANTNAME>PIEDMONT</TENANTNAME>
+    <UNIT>UNIT 5</UNIT>
+    <TV>SAMSUNG</TV>
+    <roomList>
+        <room>101A</room>
+        <room>101B</room>
+        <room>102A</room>
+        <room>102B</room>
+        <room>103A</room>
+        <room>103B</room>
+        <room>201A</room>
+        <room>201B</room>
+        <room>202A</room>
+        <room>202B</room>
+    </roomList>
+</root>
