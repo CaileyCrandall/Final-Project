@@ -7,7 +7,7 @@ import xml.etree.ElementTree as ET
 def get_user_input():
     tenant_name = input("Enter tenant name: ")
     unit = input("Enter unit: ")
-    tv_type = input("Enter tv type: ")
+    tv_type = input("Enter TV type: ")
     return tenant_name, unit, tv_type
 
 
