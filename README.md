@@ -1,2 +1,2 @@
 # Final-Project
-This is my final project. I have created... TO BE CONTINUED
+This is my final project. I have developed a Python script that generates an XML file containing tenant information, unit, TV type, and a list of room numbers. The room numbers are read from a CSV file. The primary goal is to automate the creation of structured XML data based on user input and external data sources, making sure that the output is correctly formatted and includes all necessary details.
